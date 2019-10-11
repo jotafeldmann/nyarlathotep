@@ -57,9 +57,14 @@ make stop
 
 ## Send messages using the CLI
 
-- Send message on the test topic
+- Send test message on the test topic
 ```shell
 make cli
+```
+
+- Send custom message on the test topic
+```shell
+make cli KAFKA_MESSAGE="Foo bar"
 ```
 
 - Send custom message on the custom topic
