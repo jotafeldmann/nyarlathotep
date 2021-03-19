@@ -1,6 +1,6 @@
 # Nyarlathotep
 
-My playground to play with lots of technologies.
+Purpose: my personal playground to play with technologies.
 
 ![Nyarlathotep](/docs/nyarlathotep.jpg)
 
