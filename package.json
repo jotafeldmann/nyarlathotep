@@ -40,7 +40,7 @@
         "rollup": "latest",
         "rollup-plugin-bundle-html": "^0.2.1",
         "rollup-plugin-node-resolve": "latest",
-        "rollup-plugin-serve": "^1.0.1",
+        "rollup-plugin-serve": "^1.0.2",
         "source-map-support": "^0.5.12",
         "typescript": "latest"
     },
